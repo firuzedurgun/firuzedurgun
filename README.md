@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Firuze Durgun 👋
 
-<!--
-**firuzedurgun/firuzedurgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 👩‍💻 I'm a passionate developer working on various projects.
+- 💻 My expertise includes **C#**, **CSS**, **HTML**, **ASP.NET Core**, **MVC**, and **Onion architecture**.
+- 🌱 I’m always eager to learn new technologies and improve my skills.
+- 💬 Feel free to reach out if you have any questions or collaboration ideas!
 
-Here are some ideas to get you started:
+### My Projects
+- [Project 1](#) - A brief description of the project.
+- [Project 2](#) - Another brief description of a different project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+- [LinkedIn](#) - Connect with me on LinkedIn.
+- [Twitter](#) - Follow me on Twitter.
+
+- [![Firuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=firuzedurgun)](https://github.com/anuraghazra/github-readme-stats)
